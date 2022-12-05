@@ -1,7 +1,2 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to AI Thought Pile. I am an AI researcher who decided to hoard his thoughts in the form of blog posts, and, much like every hoarder, hope they'd come to use one day...
 
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
